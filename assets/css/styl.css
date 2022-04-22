@@ -1,0 +1,231 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img1 {
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://raw.githubusercontent.com/StartBootstrap/startbootstrap-grayscale/master/dist/assets/img/bg-masthead.jpg);
+    background-size: 100%;
+    background-position: center;
+}
+
+nav {
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+
+}
+
+.Logo {
+    width: 20%;
+    float: left;
+    text-align: center;
+    padding-left: 50px;
+    color: white;
+}
+
+
+.nav {
+    float: right;
+    color: white;
+}
+
+.nav-list li a {
+    text-decoration: none;
+    color: white;
+}
+
+.nav-list li {
+    display: inline;
+    margin: 5px 10px;
+    text-align: center;
+}
+
+.gray {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20%;
+    color: rgb(146, 27, 27);
+    opacity: 0.9;
+}
+
+.buli {
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    padding: 17.5px 25px;
+    margin-top: 50px;
+    font-size: 20px;
+    background-color: #64A19D;
+    position: relative;
+}
+
+.img2 {
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: 100%;
+    background-position: center;
+}
+
+.buli {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20%;
+    opacity: 0.9;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img1 {
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://raw.githubusercontent.com/StartBootstrap/startbootstrap-grayscale/master/dist/assets/img/bg-masthead.jpg);
+    background-size: 100%;
+    background-position: center;
+}
+
+nav {
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+}
+
+.Logo {
+    width: 20%;
+    float: left;
+    text-align: center;
+
+}
+
+.nav {
+    float: right;
+
+}
+
+.nav-list li a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-list li {
+    display: inline;
+    margin: 5px 10px;
+    text-align: center;
+}
+
+.nav-list {
+    float: right;
+    height: 50px;
+    font-size: 20px;
+
+}
+
+.buli {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20%;
+    color: rgb(146, 27, 27);
+    opacity: 0.9;
+}
+
+.btn {
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    padding: 17.5px 25px;
+    margin-top: 50px;
+    font-size: 20px;
+    background-color: #64A19D;
+    position: relative;
+}
+
+.img2 {
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: 100%;
+    background-position: center;
+}
+
+.buli {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20%;
+    opacity: 0.9;
+}
+
+.img3 {
+
+
+    background-color: white;
+
+}
+
+.sol {
+    float: left;
+    align-self: start;
+    width: 60%;
+    height: 60%;
+    background-color: white;
+    padding-top: 200px;
+    padding-left: 100px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.sag {
+    float: right;
+
+    font-size: px;
+    text-align: center;
+    color: #517289;
+    display: inline-block;
+
+}
+
+.basliq {
+    display: inline-block;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 300px;
+}
+
+.text {
+    display: inline-block;
+    width: 15%;
+    margin-top: 60px;
+    margin-left: 280px;
+
+}
+
+.text p {
+    font-size: 25px;
+    color: black;
+}
+.yazi{
+    background-color: blue;
+}
+.img4{
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: 100%;
+    background-position: center;
+}
